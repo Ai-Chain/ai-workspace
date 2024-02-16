@@ -1,0 +1,13 @@
+version: '3.2'
+
+services:
+  ai-workspace:
+    image: aitooling/ai-workspace-minimal
+    restart: always
+    volumes:
+      - ai-workspace:/workspace
+    ports:
+      - 8080:8080
+
+volumes:
+  ai-workspace:
