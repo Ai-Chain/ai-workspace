@@ -1,6 +1,6 @@
 name: "build-environment"
 description: "Environment to run build, test, check, and release steps."
-author: "ML Tooling <team@aitooling.org>"
+author: "ML Tooling <team@aichain.org>"
 inputs:
   build_args:
     description: "Build arguments passed to the build.py scripts"

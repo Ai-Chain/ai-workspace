@@ -6,7 +6,7 @@ import docker
 from universal_build import build_utils
 from universal_build.helpers import build_docker
 
-REMOTE_IMAGE_PREFIX = "aitooling/"
+REMOTE_IMAGE_PREFIX = "aichain/"
 COMPONENT_NAME = "ai-workspace"
 FLAG_FLAVOR = "flavor"
 

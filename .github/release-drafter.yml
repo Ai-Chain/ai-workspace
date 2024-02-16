@@ -38,7 +38,7 @@ replacers:
   - search: '/(?:and)?(,)?(\s)*@github-actions(?:\[bot\])?,?/g'
     replace: ""
 template: |
-  [![DockerHub Release](https://img.shields.io/docker/v/aitooling/ai-workspace/$RESOLVED_VERSION?label=docker%20version&color=blue)](https://hub.docker.com/repository/docker/aitooling/ai-workspace) [![DockerHub Image Size](https://img.shields.io/docker/image-size/aitooling/ai-workspace/$RESOLVED_VERSION?label=docker%20image%20size&color=blue)](https://hub.docker.com/repository/docker/aitooling/ai-workspace)
+  [![DockerHub Release](https://img.shields.io/docker/v/aichain/ai-workspace/$RESOLVED_VERSION?label=docker%20version&color=blue)](https://hub.docker.com/repository/docker/aichain/ai-workspace) [![DockerHub Image Size](https://img.shields.io/docker/image-size/aichain/ai-workspace/$RESOLVED_VERSION?label=docker%20image%20size&color=blue)](https://hub.docker.com/repository/docker/aichain/ai-workspace)
 
   $CHANGES
 

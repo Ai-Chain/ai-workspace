@@ -13,5 +13,5 @@ For general usage questions, please consider posting on Stack Overflow or Gitter
 - Workspace version <!-- run `echo $WORKSPACE_VERSION` inside the workspace -->: 
 - Docker version <!-- run `docker version` on host machine -->: 
 - Host Machine OS (Windows/Linux/Mac): 
-- Command used to start the workspace <!-- e.g. `docker run aitooling/ai-workspace:latest` -->:
+- Command used to start the workspace <!-- e.g. `docker run aichain/ai-workspace:latest` -->:
 - Browser (Chrome/Firefox/Safari):

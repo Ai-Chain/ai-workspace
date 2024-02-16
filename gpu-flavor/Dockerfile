@@ -1,4 +1,4 @@
-ARG ARG_WORKSPACE_BASE_IMAGE="aitooling/ai-workspace:latest"
+ARG ARG_WORKSPACE_BASE_IMAGE="aichain/ai-workspace:latest"
 # Build from full flavor of workspace with same version
 FROM $ARG_WORKSPACE_BASE_IMAGE
 

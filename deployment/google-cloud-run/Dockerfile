@@ -1,4 +1,4 @@
-FROM aitooling/ai-workspace-minimal:latest
+FROM aichain/ai-workspace-minimal:latest
 
 # Set port to 8080 -> main port for cloud run
 ENV WORKSPACE_PORT=8080

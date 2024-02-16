@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-<a href="https://hub.docker.com/r/aitooling/ai-workspace-gpu" title="Docker Image Version"><img src="https://images.microbadger.com/badges/version/aitooling/ai-workspace-gpu.svg"></a>
-<a href="https://hub.docker.com/r/aitooling/ai-workspace-gpu" title="Docker Image Metadata"><img src="https://images.microbadger.com/badges/image/aitooling/ai-workspace-gpu.svg"></a>
-<a href="https://hub.docker.com/r/aitooling/ai-workspace-gpu" title="Docker Pulls"><img src="https://img.shields.io/docker/pulls/aitooling/ai-workspace-gpu.svg"></a>
+<a href="https://hub.docker.com/r/aichain/ai-workspace-gpu" title="Docker Image Version"><img src="https://images.microbadger.com/badges/version/aichain/ai-workspace-gpu.svg"></a>
+<a href="https://hub.docker.com/r/aichain/ai-workspace-gpu" title="Docker Image Metadata"><img src="https://images.microbadger.com/badges/image/aichain/ai-workspace-gpu.svg"></a>
+<a href="https://hub.docker.com/r/aichain/ai-workspace-gpu" title="Docker Pulls"><img src="https://img.shields.io/docker/pulls/aichain/ai-workspace-gpu.svg"></a>
     <a href="https://github.com/ai-chain/ai-workspace/blob/main/LICENSE" title="ML Workspace License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg"></a>
     <a href="https://gitter.im/ai-chain/ai-workspace" title="Chat on Gitter"><img src="https://badges.gitter.im/ai-chain/ai-workspace.svg"></a>
-    <a href="https://twitter.com/aitooling" title="ML Tooling on Twitter"><img src="https://img.shields.io/twitter/follow/aitooling.svg?style=social"></a>
+    <a href="https://twitter.com/aichain" title="ML Tooling on Twitter"><img src="https://img.shields.io/twitter/follow/aichain.svg?style=social"></a>
 </p>
 
 Please visit our [Github repository](https://github.com/ai-chain/ai-workspace#gpu-flavor) for documentation and deployment information.

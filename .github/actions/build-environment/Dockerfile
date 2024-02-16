@@ -1,4 +1,4 @@
-FROM aitooling/build-environment:0.6.6
+FROM aichain/build-environment:0.6.6
 
 # Install basics
 # hadolint ignore=DL3005

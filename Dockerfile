@@ -1123,7 +1123,7 @@ ENV WORKSPACE_VERSION=$ARG_WORKSPACE_VERSION
 
 # Overwrite & add Labels
 LABEL \
-    "maintainer"="aitooling.team@gmail.com" \
+    "maintainer"="aichain.team@gmail.com" \
     "workspace.version"=$WORKSPACE_VERSION \
     "workspace.flavor"=$WORKSPACE_FLAVOR \
     # Kubernetes Labels
